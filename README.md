@@ -1,1 +1,1 @@
-# Infinum Academy 2021 - iOS
+# Infinum Academy 2022 - iOS
